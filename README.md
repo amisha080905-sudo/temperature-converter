@@ -1,2 +1,2 @@
 # temperature-converter
-It is a temperature converter
+it converts temperature in different scales 
